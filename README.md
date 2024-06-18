@@ -85,10 +85,4 @@ pages={2022--2033},
 url={https://aclanthology.org/2024.semeval2024-1.273}
 }
 
-** Contributors ** 
-- Suparshwa Patil, Purdue University Fort Wayne
-- Shreyas Bedekar, Purdue University Fort Wayne
-- Shruti Mandaokar, Purdue University Fort Wayne
-  
-For any further information or queries, please contact us through the project's GitHub repository.
 
